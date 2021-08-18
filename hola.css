@@ -3,6 +3,7 @@ body{
     margin: 0px;
     display: block;
     font-family: Times New Roman;
+    background: linear-gradient(5deg,#6571ac, #6165c2, #5d58d7,#aa77c3);
 }
 .cabecera{
     position: fixed;
